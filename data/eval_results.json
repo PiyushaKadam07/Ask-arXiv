@@ -1,0 +1,25 @@
+{
+  "questions": 199,
+  "search": [
+    {
+      "mode": "keyword",
+      "recall@5": 96.0,
+      "mrr@10": 0.927
+    },
+    {
+      "mode": "meaning",
+      "recall@5": 97.0,
+      "mrr@10": 0.906
+    },
+    {
+      "mode": "hybrid",
+      "recall@5": 98.0,
+      "mrr@10": 0.959
+    }
+  ],
+  "answers": {
+    "answered": 50,
+    "cited_right_paper": 100.0,
+    "off_topic_refused": 90.0
+  }
+}

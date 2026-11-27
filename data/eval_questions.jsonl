@@ -1,0 +1,199 @@
+{"paper_id": "2312.12849", "question": "How do alpha divergences between unnormalized exponential family distributions relate to Jensen divergences induced by partition functions?"}
+{"paper_id": "2003.12228", "question": "How can mobile base stations be deployed in wireless powered crowdsourcing to prevent workers from falsely reporting their locations?"}
+{"paper_id": "2412.04463", "question": "How can depth maps and camera motion be accurately estimated from monocular videos of dynamic scenes with low camera parallax?"}
+{"paper_id": "1506.02930", "question": "How do human cognitive heuristics align with optimal probabilistic strategies to make problem solving effective?"}
+{"paper_id": "1703.08513", "question": "How can humanoid robots acquire grounded language through multimodal physical interaction using neural networks operating across multiple timescales?"}
+{"paper_id": "2605.17968", "question": "Can transformers universally approximate nonlinear operators between function spaces using measure-theoretic representations?"}
+{"paper_id": "1804.03891", "question": "How can user clustering be optimized for multicast precoding in multi-beam satellite networks to maximize system throughput?"}
+{"paper_id": "2407.13549", "question": "Do viral news posts on social media lead to sustained long-term user engagement growth?"}
+{"paper_id": "2609.33176", "question": "How can first-order bilevel optimization be applied to model-agnostic meta-learning for few-shot medical image classification?"}
+{"paper_id": "1603.08575", "question": "How can neural networks count, locate, and classify multiple objects in complex scenes without manual supervision?"}
+{"paper_id": "2602.19673", "question": "How can systems automatically test equivalence and explain non-equivalence between pairs of first-order logic formulas?"}
+{"paper_id": "2110.07654", "question": "How does degree bias affect random walk based graph embeddings, and how can it be mitigated using random graphs?"}
+{"paper_id": "1405.7484", "question": "What is the computational complexity of jointly scheduling and routing deadline-constrained traffic flows for energy efficiency in data center networks?"}
+{"paper_id": "1711.08681", "question": "How do early and late fusion strategies compare when combining lidar and multispectral imagery for semantic segmentation?"}
+{"paper_id": "2505.16969", "question": "How can 3D rotationally equivariant visuomotor policies be learned from a single RGB camera without reconstructing point clouds?"}
+{"paper_id": "2503.13970", "question": "How can probabilistic programming constructs, automatic differentiation, and ordinary differential equation solving be safely combined in a sound type system?"}
+{"paper_id": "1702.00539", "question": "What machine learning methods and data representations are used to automatically generate functional game content like levels and maps?"}
+{"paper_id": "2205.09394", "question": "How can neural architecture search automatically select features and network structures to optimize the efficiency and accuracy of search pre-ranking models?"}
+{"paper_id": "1802.08334", "question": "Does ordinary least squares reach optimal performance when estimating linear dynamical systems from a single observed trajectory?"}
+{"paper_id": "2606.29124", "question": "How can large language models be used to extract specification constraints and automatically test boundary conditions in network protocol implementations?"}
+{"paper_id": "2504.12300", "question": "How can software development teams systematically implement code changes to reduce defects and improve runtime performance?"}
+{"paper_id": "1604.07312", "question": "How can endgame tablebases be used to analyze optimal play and solve small configurations in Dou Shou Qi?"}
+{"paper_id": "2608.07645", "question": "How can self-improving coding agents leverage past execution trajectories across multiple tasks and agents to improve code updates?"}
+{"paper_id": "1905.07443", "question": "How can neural architecture search be applied to efficiently optimize U-Net encoder-decoder models for disparity estimation?"}
+{"paper_id": "2112.13870", "question": "How can natural language processing and word co-occurrences be used to measure an individual's personal social ontological beliefs?"}
+{"paper_id": "2609.33438", "question": "How can large language models generate accurate formal program specifications by breaking code down into execution paths?"}
+{"paper_id": "1606.08528", "question": "How can indoor human movement be predicted by combining internal user preferences and external environmental factors in a Bayesian model?"}
+{"paper_id": "2609.14687", "question": "How should data-to-text driver coaching systems be localized to account for differences in regional road infrastructure and safety priorities?"}
+{"paper_id": "2609.39792", "question": "How can topological descriptors from delay embeddings improve sample efficiency and parameter reduction in time-series classification?"}
+{"paper_id": "2412.09121", "question": "How can Maximum Mean Discrepancy provide a sample-efficient surrogate for collision risk estimation in autonomous vehicle trajectory optimization?"}
+{"paper_id": "1507.05086", "question": "How can correlation clustering be parallelized to run efficiently on large graphs?"}
+{"paper_id": "2112.05218", "question": "How can reinforcement learning agents learn generalizable environment dynamics without neural networks?"}
+{"paper_id": "1504.04596", "question": "How to optimize search ranking for both relevance and diversity without explicit subtopic information?"}
+{"paper_id": "2607.12655", "question": "How can the completeness of syntactic anti-unification algorithms be formally verified?"}
+{"paper_id": "1909.00855", "question": "How can organizations assess risk when implementing end user computing policies?"}
+{"paper_id": "2305.13824", "question": "How to schedule automated guided vehicles using reinforcement learning under dynamic constraints and unknown tasks?"}
+{"paper_id": "2503.17279", "question": "How can sentence embeddings be adapted to reflect a specific context or condition?"}
+{"paper_id": "2001.03931", "question": "How can feedback communication algorithms be adapted to avoid numerical overflow when using low precision arithmetic?"}
+{"paper_id": "2606.00487", "question": "How to construct optimal draft trees in diffusion-based speculative decoding to reduce verification latency?"}
+{"paper_id": "1903.00788", "question": "How can semantic inconsistency between untampered images and modified metadata be automatically detected?"}
+{"paper_id": "2608.24460", "question": "How do language models resolve contradictions between conflicting facts in their context?"}
+{"paper_id": "2310.00288", "question": "How can memristor crossbar arrays be used to reduce energy consumption in wireless communication systems?"}
+{"paper_id": "2607.22375", "question": "How can automated systems generate novel scientific hypotheses that are both sound and non-redundant?"}
+{"paper_id": "2012.14132", "question": "How can researchers systematically benchmark performance and scalability across different serverless cloud providers?"}
+{"paper_id": "1808.04046", "question": "Can analyzing the randomness of message identifiers detect injection attacks on vehicle buses?"}
+{"paper_id": "2609.30316", "question": "Do financial language models require full annual pretraining to prevent lookahead bias when making predictions?"}
+{"paper_id": "2608.26035", "question": "How do listeners decide when to revise their understanding versus maintaining prior beliefs during ambiguous dialogue?"}
+{"paper_id": "2103.01826", "question": "How can machine learning models be trained to handle users strategically manipulating their input features?"}
+{"paper_id": "2408.11570", "question": "How can in-memory architectures accelerate cryptographic processing while reducing power consumption?"}
+{"paper_id": "1805.12085", "question": "How can neural network pruning be structured to align with GPU block matrix multiplications?"}
+{"paper_id": "2606.19891", "question": "What are the regret bounds for bandit convex optimization when loss functions experience bounded adversarial perturbations?"}
+{"paper_id": "1607.06540", "question": "How can pilot sequence design mitigate pilot contamination and maximize achievable user load in multi-cell massive MIMO systems?"}
+{"paper_id": "2608.04810", "question": "Does pre-training on segmentation pseudo-labels reduce the amount of expert annotations needed for lumbar spine MRI disease grading?"}
+{"paper_id": "1605.02197", "question": "Why do hierarchical network structures outperform scale-free or random networks when groups solve problems on complex landscapes?"}
+{"paper_id": "2108.01612", "question": "How can error correcting codes and discrete cosine transform be combined to improve image watermarking robustness against attacks?"}
+{"paper_id": "2601.12262", "question": "How well do large language models generate functional code that is tailored to specific software environments and package versions?"}
+{"paper_id": "2505.01396", "question": "How can robotic policies explore diverse interactions to improve performance during self-guided environment practice?"}
+{"paper_id": "2310.17768", "question": "How can dataset generation improve the visual realism and pose diversity for 3D two-hand interaction analysis?"}
+{"paper_id": "2509.21175", "question": "What are the current capabilities and open challenges of large language models in generating and explaining humor?"}
+{"paper_id": "2508.03774", "question": "How can physics-informed neural networks accelerate 3D microwave scattering and radar cross section predictions for perfectly conducting targets?"}
+{"paper_id": "2407.01077", "question": "How do pre-existing social relationships between students affect the grades assigned in online peer assessment systems?"}
+{"paper_id": "2308.00089", "question": "How can lower bounds be proven for testing monotonicity and log-concavity of discrete probability distributions?"}
+{"paper_id": "2207.07339", "question": "How can argument strength in quantitative argumentation systems be evaluated using fuzzy acceptability and rejectability degrees?"}
+{"paper_id": "2012.09252", "question": "How can derivative-free global optimization be performed without using random sampling mechanisms?"}
+{"paper_id": "2206.07396", "question": "How can relational database query optimizers estimate the result size of inequality join predicates?"}
+{"paper_id": "1709.04071", "question": "How can question answering systems perform multi-hop reasoning over knowledge graphs while handling noisy inputs?"}
+{"paper_id": "2609.04804", "question": "How can generative models effectively synthesize multi-scale medical time-series data while preserving minority class patterns?"}
+{"paper_id": "2308.01888", "question": "How can object detectors be made robust against adversarial attacks using pre-trained classification backbones without computational overhead?"}
+{"paper_id": "2604.17699", "question": "How can multi-agent systems automatically detect and repair bugs in autonomous large language model agents?"}
+{"paper_id": "2601.07629", "question": "What are the main enduring research themes and funding trends in learning analytics over the past decade?"}
+{"paper_id": "2404.04070", "question": "How can neural additive models be adapted for interpretable demand forecasting while incorporating structured covariate interaction hierarchies?"}
+{"paper_id": "2507.14570", "question": "How can graph neural networks be scaled to train efficiently on billion-edge graphs using a single GPU?"}
+{"paper_id": "2305.08810", "question": "How can 3D objects be automatically discovered and reconstructed from multi-view images without manual background masking or bounding box labels?"}
+{"paper_id": "cs/0606026", "question": "How can parity check equations be constructed to guarantee iterative decoding of erasure patterns up to a fixed size?"}
+{"paper_id": "1704.02147", "question": "What approximation guarantees exist for classic hierarchical clustering algorithms under formally defined objective functions?"}
+{"paper_id": "1903.01896", "question": "How does initial population entropy affect search optimization performance in genetic algorithms modified by chaotic maps?"}
+{"paper_id": "2603.08138", "question": "What safety and interaction challenges arise when head-mounted augmented reality modifies or suppresses elements of real-world visual environments?"}
+{"paper_id": "2503.13948", "question": "How can dynamic 3D Gaussian splatting models be compressed to reduce storage requirements without degrading rendering speed and quality?"}
+{"paper_id": "2008.01704", "question": "How can Pufferfish privacy guarantees be automatically verified for discretized privacy mechanisms using hidden Markov models?"}
+{"paper_id": "2404.00431", "question": "How can street view visual features be integrated into driving route visualization tools?"}
+{"paper_id": "2004.04911", "question": "Why are multimodal biometric authentication systems more secure than single-trait biometric systems?"}
+{"paper_id": "2512.13927", "question": "How do spherical graph neural networks achieve rotationally symmetric predictions for three-dimensional molecular systems?"}
+{"paper_id": "2504.01009", "question": "How to pretrain whole slide image representations when paired multimodal clinical data is missing?"}
+{"paper_id": "1408.0689", "question": "How can traffic signal control timing be optimized for modern roundabouts using fuzzy logic?"}
+{"paper_id": "1706.08133", "question": "How can wireless sensor networks maintain node security while conserving energy through sleep scheduling?"}
+{"paper_id": "2607.16243", "question": "What are the main robustness failure modes of small vision-language models in industrial visual anomaly detection?"}
+{"paper_id": "2609.00071", "question": "Does lower prediction error in nuisance function estimation guarantee lower bias in causal effect estimation?"}
+{"paper_id": "2310.16595", "question": "How can an impredicative universe hierarchy with universe variables be encoded in a logical framework?"}
+{"paper_id": "2403.14328", "question": "How can neural network reinforcement learning policies for robot locomotion be distilled into interpretable models?"}
+{"paper_id": "2405.06124", "question": "How well do machine learning malware detectors trained on sandbox traces perform when deployed on real endpoint devices?"}
+{"paper_id": "2610.24386", "question": "How can financial market volatility estimates be incorporated directly into recurrent neural network gating mechanisms to improve stock forecasting?"}
+{"paper_id": "2601.12690", "question": "How does disclosing autism to large language models influence the social advice provided to users?"}
+{"paper_id": "2609.24054", "question": "How can underwater autonomous vehicles maintain orbiting paths around targets when visual tracking is temporarily interrupted?"}
+{"paper_id": "2508.12410", "question": "How can state-space models leverage multi-planar views to segment diseased liver structures in volumetric medical images?"}
+{"paper_id": "1701.00233", "question": "What recent research covers rewriting techniques applied to program evaluation and transformations?"}
+{"paper_id": "1804.01984", "question": "How can human pose estimation and body part segmentation be jointly learned to improve accuracy?"}
+{"paper_id": "2301.05266", "question": "How can hardware faults in spiking neural network accelerators be mitigated during retraining to restore accuracy?"}
+{"paper_id": "2510.16764", "question": "How does consumer visual attention differ when selecting products from physical versus virtual reality store shelves?"}
+{"paper_id": "1609.05787", "question": "How can context like location and time intervals be incorporated into recurrent neural networks for sequential recommendation?"}
+{"paper_id": "1606.01433", "question": "Does joint inference outperform recurrent neural networks for temporal entity extraction in clinical text?"}
+{"paper_id": "2310.02944", "question": "How can vision-based docking for underwater vehicles adapt to changing water color conditions without external communication?"}
+{"paper_id": "2609.17758", "question": "How can attitude safety constraints be guaranteed in real time during deep reinforcement learning for quadrotors?"}
+{"paper_id": "2507.05631", "question": "How can image retrieval systems effectively combine text modification instructions with a reference image without focus bias?"}
+{"paper_id": "2304.09836", "question": "Are proper scoring rules always reliable for evaluating multivariate probabilistic time series forecasts with finite sample sizes?"}
+{"paper_id": "2410.16669", "question": "How can the computational complexity of calculating partial Gromov-Wasserstein distances between multiple metric measure spaces be reduced?"}
+{"paper_id": "2404.14671", "question": "How can a 2D lane detection model be trained completely without human-annotated labels?"}
+{"paper_id": "1211.5904", "question": "How can domain-specific structural properties of matrix equations be used to automatically generate faster linear algebra algorithms?"}
+{"paper_id": "2509.10132", "question": "How can personalized local models be efficiently created from a global model in decentralized Bayesian machine learning without heavy computation?"}
+{"paper_id": "2406.02140", "question": "What are the theoretical error bounds for answering private linear queries under differential privacy using higher-order vector norm metrics?"}
+{"paper_id": "2009.03163", "question": "What design principles effectively support human-in-the-loop interactive optimization systems?"}
+{"paper_id": "1902.08427", "question": "Can a set of red and blue points always be matched such that their diametral disks share a common point?"}
+{"paper_id": "2601.03690", "question": "How can malicious MMS protocol traffic be detected to prevent cyberattacks on smart grid substations?"}
+{"paper_id": "1604.06057", "question": "How can deep reinforcement learning agents efficiently explore environments with extremely sparse feedback?"}
+{"paper_id": "2111.07468", "question": "How do standard image processing operations like resizing and denoising impact the performance of deepfake detectors?"}
+{"paper_id": "2305.06522", "question": "How can randomized smoothing be combined with masked context to improve the adversarial robustness of language models?"}
+{"paper_id": "1907.09198", "question": "How can non-monetary credit trading mechanisms optimize resource allocation among self-interested agents?"}
+{"paper_id": "2207.03990", "question": "How can dynamic differential equations be integrated with neural networks to better predict opinion dynamics in social media?"}
+{"paper_id": "2412.12616", "question": "How can macroscopic couple stress tensors be calculated from heterogeneous microscopic continuous and discrete representative volume elements?"}
+{"paper_id": "2411.11136", "question": "What are the best approximation guarantees achievable for star packing problems using local search algorithms?"}
+{"paper_id": "2601.12373", "question": "How can real-time vehicle-to-infrastructure communication and digital twins be used to monitor autonomous vehicle safety?"}
+{"paper_id": "1708.04429", "question": "How does battery capacity limit information leakage in smart meter privacy systems?"}
+{"paper_id": "2008.08289", "question": "How can neural network layers be partitioned across distributed processing nodes to minimize communication latency during inference?"}
+{"paper_id": "2507.15379", "question": "How do government tax authorities implement predictive analytics to identify targets for auditing?"}
+{"paper_id": "2501.04362", "question": "How can steganalysis systems identify suspicious actors when experiencing severe cover source mismatch?"}
+{"paper_id": "2606.23752", "question": "How can context and task state be maintained across different language model coding assistants without direct inter-agent communication?"}
+{"paper_id": "2303.04901", "question": "How can virtual reality platforms be used to collect human driving data and model driving styles in dangerous scenarios?"}
+{"paper_id": "1910.07950", "question": "Can graph k-vertex connectivity and balanced sparse cuts be computed deterministically in subquadratic time?"}
+{"paper_id": "2505.10142", "question": "What knowledge-based engineering practices and ontologies are currently used in aerospace design and manufacturing?"}
+{"paper_id": "2606.26295", "question": "How can image structural information loss under severe underwater turbidity be evaluated accurately for vision models?"}
+{"paper_id": "2303.07042", "question": "How can potential field methods for 3D aerial robot exploration overcome high computational costs?"}
+{"paper_id": "2503.04830", "question": "Does adding source citations to large language model shopping assistants improve accuracy and customer engagement?"}
+{"paper_id": "2406.12048", "question": "How can depth estimation models achieve fast temporal consistency across multiple views without using optical flow?"}
+{"paper_id": "2409.19898", "question": "How can text summarization benchmarks provide fine-grained quality evaluation across diverse context lengths and domains?"}
+{"paper_id": "2203.02150", "question": "How can graph neural networks incorporate temporal information to improve entity alignment across knowledge graphs?"}
+{"paper_id": "2003.12423", "question": "How can distributed stochastic gradient descent reduce communication overhead without sacrificing convergence speed in non-convex optimization?"}
+{"paper_id": "1710.01301", "question": "How can algorithms deterministically interpolate sparse black-box multivariate polynomials with reduced bit complexity?"}
+{"paper_id": "2011.07332", "question": "How can neural networks classify data based on unobserved hidden features using logcosh loss functions?"}
+{"paper_id": "2004.00005", "question": "How does public interest and topic focus on digital platforms shift before and after an epidemic reaches a nation?"}
+{"paper_id": "2203.06631", "question": "How can personalizing social robot interactions prevent user disengagement during multi-party service tasks?"}
+{"paper_id": "2203.10462", "question": "How is optical flow used to estimate motion and align temporal frames in video super resolution?"}
+{"paper_id": "1104.2196", "question": "Why use spatio-temporal metadata as the primary retrieval criterion in decentralized social networks?"}
+{"paper_id": "2511.23101", "question": "How accurately do large language models evaluate human personality traits from text using five factor models?"}
+{"paper_id": "2610.08344", "question": "How can robots proactively assist human partners during collaboration without receiving explicit task instructions?"}
+{"paper_id": "2101.07148", "question": "How can robots guarantee real-time trajectory planning when picking moving items off a conveyor belt?"}
+{"paper_id": "2211.01692", "question": "Can generative information extraction models extract structured data from legal precedents using very few training examples?"}
+{"paper_id": "2304.00253", "question": "How to prevent accuracy drop when quantizing object detection transformers to low bit widths?"}
+{"paper_id": "0903.0479", "question": "How can lexicographical symmetry breaking constraints be efficiently combined with global constraints in constraint solving?"}
+{"paper_id": "2001.10336", "question": "What are the key research directions combining bibliometrics and information retrieval for academic search?"}
+{"paper_id": "2503.16584", "question": "How can physiological signals like EEG and ECG be combined with psychological surveys for personalized emotion recognition?"}
+{"paper_id": "2605.14967", "question": "How can token weighting in supervised fine-tuning prevent catastrophic forgetting while teaching language models new behaviors?"}
+{"paper_id": "2408.02926", "question": "How can deep reinforcement learning optimize workflow scheduling costs in cloud environments using spot instances?"}
+{"paper_id": "cs/0702037", "question": "How can genetic algorithms minimize network coding resources in cyclic multicast networks?"}
+{"paper_id": "2608.10553", "question": "How can past residual retrieval improve time series conformal prediction intervals?"}
+{"paper_id": "2311.14908", "question": "How does an MPI CUDA implementation of support vector machines compare to TensorFlow in training speedup?"}
+{"paper_id": "1906.01119", "question": "How can exploration mechanisms improve sample efficiency during adversarial training of deep Q networks?"}
+{"paper_id": "2603.19066", "question": "Do large language model word analogies align with the geometric parallelogram model better than human analogies?"}
+{"paper_id": "1512.05247", "question": "How can answer set programming be used to find optimal stable matchings with ties and unacceptable choices?"}
+{"paper_id": "2508.13829", "question": "How can variational autoencoders be combined with bootstrapping for imbalanced tabular regression?"}
+{"paper_id": "2607.20046", "question": "How can prediction variability across training checkpoints be used for deep neural network test case prioritization?"}
+{"paper_id": "2411.16365", "question": "How can small multi-modal language models outperform larger models on multi-modal retrieval-augmented generation tasks?"}
+{"paper_id": "2412.13023", "question": "How can relational logical constraints be efficiently enforced in sequential deep probabilistic models?"}
+{"paper_id": "2412.16361", "question": "How can signed distance functions be robustly learned from sparse and noisy 3D point clouds without ground truth supervision?"}
+{"paper_id": "2412.01866", "question": "How can singular and nearly singular numerical integrals be computed accurately when the exact singular integrand is unknown?"}
+{"paper_id": "1808.06452", "question": "How do different imaging modalities and machine learning classifiers perform for automatic Alzheimer's disease diagnosis across public datasets?"}
+{"paper_id": "2511.11357", "question": "How can synthetic multivariate time series with known spatiotemporal causal dynamics be generated to benchmark causal discovery algorithms?"}
+{"paper_id": "2412.20376", "question": "How can autonomous robots detect occluded obstacles in dynamic environments by observing human movement patterns?"}
+{"paper_id": "1607.01883", "question": "How can sampling-based motion planning incorporate entropy convergence criteria to determine optimal stopping for robotic exploration?"}
+{"paper_id": "2103.14595", "question": "How can manipulators maintain end-effector formation control when subjected to unknown non-vanishing sinusoidal and step external disturbances?"}
+{"paper_id": "1611.06440", "question": "How can first-order Taylor expansion be used to prune convolutional neural network kernels for efficient transfer learning?"}
+{"paper_id": "2108.12582", "question": "How can retrieval-based conversational models achieve the response quality of large generative models while maintaining low latency?"}
+{"paper_id": "2506.10781", "question": "How can live interactive editing environments scaffold students in building formal rule-based derivation trees?"}
+{"paper_id": "2007.05722", "question": "Do current benchmark datasets for sound source localization rely primarily on visual cues rather than audio information?"}
+{"paper_id": "1811.07473", "question": "What are the primary technical challenges in integrating haptic feedback into virtual medical training systems?"}
+{"paper_id": "2403.14204", "question": "How can variable strand lengths resolve primer collisions to increase capacity in DNA data storage systems?"}
+{"paper_id": "2611.02319", "question": "How can silent unauthorized access to protected health information by medical artificial intelligence agents be detected and prevented?"}
+{"paper_id": "1511.01446", "question": "How can failure-aware task scheduling reduce job failure rates and runtime in distributed cloud data processing frameworks?"}
+{"paper_id": "1808.00556", "question": "What are the benefits and challenges of using software containers on high-performance computing clusters?"}
+{"paper_id": "0705.1218", "question": "How can parallel kinematic mechanisms be calibrated geometrically using leg parallelism measurements and simple indicators?"}
+{"paper_id": "2608.12198", "question": "How can learning-based behavior planners for autonomous vehicles be safely combined with deterministic safety constraint layers?"}
+{"paper_id": "2003.13947", "question": "What causes classification score bias between new and old classes in exemplar-based class incremental learning?"}
+{"paper_id": "2605.19537", "question": "How significantly can the choice of inference backend impact language model benchmark evaluation scores?"}
+{"paper_id": "1807.08887", "question": "How can computational graphs of large neural networks be automatically partitioned across multiple GPUs to fit in memory?"}
+{"paper_id": "2407.06492", "question": "How can graph neural networks be applied to predict structural modal properties from vibration frequency data across multiple structures?"}
+{"paper_id": "1303.1942", "question": "How can optimal control policies be synthesized for Markov decision processes under linear temporal logic constraints?"}
+{"paper_id": "1702.05085", "question": "How can facial keypoint detection and 3D pose estimation be performed jointly without using 3D structural data?"}
+{"paper_id": "2108.09200", "question": "How can relevant context subgraphs be extracted around seed nodes in large labeled networks using custom criteria?"}
+{"paper_id": "2409.06805", "question": "How do different personalized federated learning algorithms compare in terms of convergence speed and communication efficiency?"}
+{"paper_id": "2003.00343", "question": "How can model prediction calibration be maintained when evaluating on data under covariate shift?"}
+{"paper_id": "2208.07818", "question": "How does the auto-encoding variational Bayes algorithm connect to classical expectation maximization for fitting latent variable models?"}
+{"paper_id": "2404.15806", "question": "How can structural node importance be used to improve masking strategies in graph masked autoencoders?"}
+{"paper_id": "2611.07495", "question": "How do decision interactions affect policy optimization when training orchestrators for multi-agent language model systems?"}
+{"paper_id": "2407.08754", "question": "How should researchers select multi-objective optimization algorithms for complex real-world decision-making problems?"}
+{"paper_id": "2510.16996", "question": "How can multi-agent language model systems systematically optimize GPU code performance through hardware feedback and iterative search?"}
+{"paper_id": "1905.03019", "question": "How can sign selection with conditional expectations efficiently reduce the cubic metric in OFDM signals?"}
+{"paper_id": "1901.11184", "question": "What are the key theoretical dimensions defining human-centered artificial intelligence and machine learning?"}
+{"paper_id": "2512.11270", "question": "How can large language models automatically translate natural language descriptions into Markov decision processes and trained policies?"}
+{"paper_id": "2509.22545", "question": "How effective are AI coaches compared to traditional written guides in preparing people for workplace negotiations?"}
+{"paper_id": "2511.07483", "question": "How can reward modeling prevent small language models from learning low-quality reasoning chains that accidentally yield correct answers?"}
+{"paper_id": "2511.19886", "question": "Why do deep fake image forgery detectors fail to generalize to unseen generative models?"}
