@@ -72,7 +72,8 @@ def answer_scores(searcher: Searcher, generate, questions: list[dict], off_topic
 
     refused = 0
     for question in off_topic:
-        refused += answer(question, searcher, generate)["answer"].startswith(NO_ANSWER)
+     # Compare without the final "." because Gemini sometimes continues with ";" or ","
+        refused += answer(question, searcher, generate)["answer"].startswith(NO_ANSWER.rstrip("."))
         time.sleep(pause)
 
     return {

@@ -20,6 +20,6 @@
   "answers": {
     "answered": 50,
     "cited_right_paper": 100.0,
-    "off_topic_refused": 90.0
+    "off_topic_refused": 100.0
   }
 }
