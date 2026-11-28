@@ -1,0 +1,6 @@
+.git
+__pycache__/
+.pytest_cache/
+tests/
+data/eval_questions.jsonl
+data/eval_results.json

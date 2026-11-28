@@ -4,6 +4,7 @@ Two kinds of search, combined into one:
   keyword (BM25)        good at exact terms: model names, acronyms, rare words
   meaning (embeddings)  finds papers that say the same thing in different words
 """
+import os
 import json
 import re
 from pathlib import Path
@@ -45,7 +46,7 @@ def fastembed_model() -> Embedder:
     """The real embedding model. fastembed runs it with ONNX, so we don't need PyTorch."""
     from fastembed import TextEmbedding
 
-    model = TextEmbedding(EMBED_MODEL)
+    model = TextEmbedding(EMBED_MODEL, cache_dir=os.getenv("FASTEMBED_CACHE"))
     return lambda texts: np.array(list(model.embed(texts, batch_size=64)), dtype=np.float32)
 
 
